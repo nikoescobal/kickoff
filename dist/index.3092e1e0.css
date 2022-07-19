@@ -232,9 +232,9 @@ img, video {
   border-radius: .25rem;
 }
 
-.bg-light-orange {
+.bg-red-50 {
   --tw-bg-opacity: 1;
-  background-color: hsl(30 97% 85% / var(--tw-bg-opacity));
+  background-color: rgb(254 242 242 / var(--tw-bg-opacity));
 }
 
 .bg-orange {
@@ -277,14 +277,14 @@ img, video {
   font-weight: 700;
 }
 
+.text-blue-500 {
+  --tw-text-opacity: 1;
+  color: rgb(59 130 246 / var(--tw-text-opacity));
+}
+
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-
-.text-orange {
-  --tw-text-opacity: 1;
-  color: hsl(26 93% 78% / var(--tw-text-opacity));
 }
 
 .shadow-md {
